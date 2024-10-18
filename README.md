@@ -15,7 +15,7 @@ I look forward to trying out specific fields in the future, such as :
 - 🕹️ Game design
 - Probably more to come
 
-## Terrible Decision making
+## Terrible Decision making/Banger trackrecord
 - I have a creative mind, so i threw away Frontend for Backend.
 - Python and Django were hot, so i used Ruby on Rails.
 - Created a variable called Strint in C, type's int, stores a string. I hope it becomes a standard one day.
