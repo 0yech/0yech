@@ -1,9 +1,9 @@
 # Hi There 💚
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F75E&random=true&width=435&height=30&lines=I+love+fried+shrimps)](https://git.io/typing-svg)
-## About me
-I'm a 22 Years old IT specialist from Vaud, I've dealt with Servers, Support and now Code.
-0yech's my Github name, but I usually go by Cheyo.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F75E&vCenter=true&width=435&height=80&lines=I+love+fried+shrimps)](https://git.io/typing-svg)
 
+**0yech's my Github name, but I usually go by Cheyo.**
+
+22yo IT specialist from Vaud, I've dealt with Servers, Support and now Code.\
 I currently am at 42 Lausanne. It's been great until now, you should try it out.
 
 ## Objectives
