@@ -18,6 +18,7 @@ I look forward to trying out specific fields in the future, such as :
 ## Terrible Decision making/Banger trackrecord
 - I have a creative mind, so i threw away Frontend for Backend.
 - Python and Django were hot, so i used Ruby on Rails.
+- I can use SQL server management studio 2019, but only in chinese.
 - Created a variable called Strint in C, type's int, stores a string. I hope it becomes a standard one day.
 - I really like Smash Brothers, so I became the best Brawlhalla player in my country.
 
