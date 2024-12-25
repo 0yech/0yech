@@ -8,7 +8,8 @@ I currently am at 42 Lausanne. It's been great until now, you should try it out.
 
 ## Currently working on
 
-[so_long](https://github.com/0yech/so_long) (42 Rank02)
+Nothing ! Holiday break (42 Rank03)
+Latest project [GameBoySQ](https://github.com/0yech/GameBoySQ)
 
 ## Objectives
 
