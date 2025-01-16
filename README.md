@@ -10,7 +10,7 @@ I currently am at 42 Lausanne. It's been great until now, you should try it out.
 
 ## Currently working on
 
-Nothing ! Holiday break (42 Rank03)
+Minishell with [Aisling Fontaine](https://github.com/FireInsidE-fie) (42 Rank03)
 
 Latest project [GameBoySQ](https://github.com/0yech/GameBoySQ)
 
