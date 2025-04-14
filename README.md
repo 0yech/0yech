@@ -34,7 +34,7 @@ I look forward to trying out specific fields in the future, such as :
 - IT CFC at École des Arches
 - IT Specialist at LAS
 - Data Integration Specialist at LAS
-- Volunteer, side projects and testing for Gameforge AG
+- Volunteering, testing and side dev projects for Gameforge AG
 <!--
 **0yech/0yech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
