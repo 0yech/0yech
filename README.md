@@ -6,7 +6,7 @@
 22yo IT specialist from Vaud, I've dealt with Servers, Support and now Code.\
 I currently am at 42 Lausanne. It's been great until now, you should try it out.
 
-[WIP Website](https://0yech.github.io/GCNFolio/)
+[WIP Website](https://0ye.ch/)
 
 ## Currently working on
 
