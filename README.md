@@ -10,7 +10,7 @@ I currently am at 42 Lausanne. It's been great until now, you should try it out.
 
 ## Currently working on
 
-[Minishell](https://github.com/0yech/minishell) with [Aisling Fontaine](https://github.com/FireInsidE-fie) (42 Rank03)
+42 CPP Modules (42 Rank04)
 
 Latest project : [Philosophers](https://github.com/0yech/philosophers)
 
