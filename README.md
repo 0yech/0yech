@@ -12,7 +12,7 @@ I currently am at 42 Lausanne. It's been great until now, you should try it out.
 
 42 CPP Modules (42 Rank04)
 
-Latest project : [Philosophers](https://github.com/0yech/philosophers)
+Latest project : [Minishell](https://github.com/0yech/minishell)
 
 ## Objectives
 
