@@ -3,7 +3,7 @@
 
 **0yech's my Github name, but I usually go by Cheyo.**
 
-22yo IT specialist from Vaud, I've dealt with Servers, Support and now Code.\
+23yo IT specialist from Vaud, I've dealt with Servers, Support and now Code.\
 I currently am at 42 Lausanne. It's been great until now, you should try it out.
 
 Discord : cheyo
