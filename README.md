@@ -12,9 +12,9 @@ Discord : cheyo
 
 ## Currently working on
 
-42 CPP Modules & [MiniRT](https://github.com/FireInsidE-fie/miniRT) with [Aisling Fontaine](https://github.com/FireInsidE-fie/) (42 Rank04)
+42 CPP Modules (42 Rank05)
 
-Latest project : [Minishell](https://github.com/0yech/minishell)
+Latest project : [MiniRT](https://github.com/FireInsidE-fie/miniRT) with [Aisling Fontaine](https://github.com/FireInsidE-fie/)
 
 ## Objectives
 
