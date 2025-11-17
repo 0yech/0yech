@@ -32,7 +32,6 @@ I look forward to trying out specific fields in the future, such as :
 - I hacked into a local pizzeria and put the extra pepperoni at -50$
 - I can use SQL server management studio 2019, but only in chinese.
 - Created a variable called Strint in C, type's int, stores a string. I hope it becomes a standard one day.
-- I really like Smash Brothers, so I became the best Brawlhalla player in my country.
 
 ## Experiences
 - IT CFC at École des Arches
