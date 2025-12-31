@@ -12,7 +12,7 @@ Discord : cheyo
 
 ## Currently working on
 
-42 CPP Modules (42 Rank05)
+webserv (42 Rank05)
 
 Latest project : [MiniRT](https://github.com/FireInsidE-fie/miniRT) with [Aisling Fontaine](https://github.com/FireInsidE-fie/)
 
