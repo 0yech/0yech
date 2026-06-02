@@ -12,9 +12,9 @@ Discord : cheyo
 
 ## Currently working on
 
-webserv (42 Rank05)
+transcendence (42 Rank06)
 
-Latest project : [MiniRT](https://github.com/FireInsidE-fie/miniRT) with [Stellaaash](https://github.com/stellaaash/)
+Latest projects : [MiniRT](https://github.com/stellaaash/miniRT) and [Webserv](https://github.com/stellaaash/webserv) with [Stellaaash](https://github.com/stellaaash/)
 
 ## Objectives
 
