@@ -4,7 +4,7 @@
 **0yech's my Github name, but I usually go by Cheyo.**
 
 24yo IT specialist from Vaud, I've dealt with Servers, Support and now Code.\
-I currently am at 42 Lausanne. It's been great until now, you should try it out.
+I currently am at 42 Lausanne working on their specialization projects. It's been great until now, you should try it out.
 
 Discord : cheyo
 
@@ -12,9 +12,11 @@ Discord : cheyo
 
 ## Currently working on
 
-transcendence (42 Rank06)
+Post common core UNIX/Cybersecurity 42 projects.
 
-Latest projects : [MiniRT](https://github.com/stellaaash/miniRT) and [Webserv](https://github.com/stellaaash/webserv) with [Stellaaash](https://github.com/stellaaash/)
+Latest project : [42's transcendence](https://github.com/0yech/transcendence)
+
+Very fond of those two too : [Webserv](https://github.com/stellaaash/webserv) and [MiniRT](https://github.com/stellaaash/MiniRT) with [Stellaaash](https://github.com/stellaaash/)
 
 ## Objectives
 
@@ -37,6 +39,7 @@ I look forward to trying out specific fields in the future, such as :
 - IT CFC at École des Arches
 - IT Specialist at LAS
 - Data Integration Specialist at LAS
+- Transcender at 42 Lausanne
 - Volunteering, testing and side dev projects for Gameforge AG
 <!--
 **0yech/0yech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
